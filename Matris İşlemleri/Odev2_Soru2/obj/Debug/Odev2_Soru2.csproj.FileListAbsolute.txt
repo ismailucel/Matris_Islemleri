@@ -1,0 +1,9 @@
+C:\Users\İSMAİL\Desktop\nyat\Odev2_Soru2\Odev2_Soru2\bin\Debug\Odev2_Soru2.exe.config
+C:\Users\İSMAİL\Desktop\nyat\Odev2_Soru2\Odev2_Soru2\bin\Debug\Odev2_Soru2.exe
+C:\Users\İSMAİL\Desktop\nyat\Odev2_Soru2\Odev2_Soru2\bin\Debug\Odev2_Soru2.pdb
+C:\Users\İSMAİL\Desktop\nyat\Odev2_Soru2\Odev2_Soru2\obj\Debug\Odev2_Soru2.csprojAssemblyReference.cache
+C:\Users\İSMAİL\Desktop\nyat\Odev2_Soru2\Odev2_Soru2\obj\Debug\Odev2_Soru2.Properties.Resources.resources
+C:\Users\İSMAİL\Desktop\nyat\Odev2_Soru2\Odev2_Soru2\obj\Debug\Odev2_Soru2.csproj.GenerateResource.cache
+C:\Users\İSMAİL\Desktop\nyat\Odev2_Soru2\Odev2_Soru2\obj\Debug\Odev2_Soru2.csproj.CoreCompileInputs.cache
+C:\Users\İSMAİL\Desktop\nyat\Odev2_Soru2\Odev2_Soru2\obj\Debug\Odev2_Soru2.exe
+C:\Users\İSMAİL\Desktop\nyat\Odev2_Soru2\Odev2_Soru2\obj\Debug\Odev2_Soru2.pdb
